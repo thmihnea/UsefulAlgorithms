@@ -46,5 +46,5 @@ int main(int argc, char* argv[]) {
         for (int j = 1; j <= m; j++)
             res[i][j] = 0;
     point plecare = {x, y};
-    lee(placeare);
+    lee(plecare);
 }
